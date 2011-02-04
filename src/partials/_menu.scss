@@ -1,72 +1,83 @@
 #main-menu {
-	@include horizontal-list(0,left);
+	@include horizontal-list(0,left);      
+  overflow: visible;
 
 	a {
-		background: image-url($mainmenu-bgimg) repeat-x; 
-		height:18px; 
 		display:block;
 		padding-left: 15px; 
 		padding-right: 15px;
-		padding-top: 4px;
+		padding-top: 6px;     
+		padding-bottom: 11px;   
 		@include hover-link;
 		color: ($menu-linkcolor);
 		text-transform:uppercase;
-		font-family: ($subfont);
+		font-family: ($subfont);   
+		font-weight: bold;   
+		font-size: 11px;
+	}
 
-	}
-	a.active {
-		border-left: 1px dotted #757575;
-		border-right: 1px dotted #757575;
-		margin-left: -2px;
-		margin-right: -2px;
-		background: image-url($activemenu-bgimg) repeat-x; 
-		text-decoration: underline;
-	}
-	li:first-child {
-		border-left: 1px solid #bdbdbd;
-	}
+
 	li{
-		border-right: 1px solid #bdbdbd;
-		background-color:#FFFFFF;
 		padding-left:1px;
-		padding-right:1px;
+		padding-right:1px;   
+		  
+		background: image-url($menuli-bgimg) no-repeat 100% 0;   
 	}
 	li.active {
-		padding-bottom: 1px;
-		border-bottom: 1px solid #fff;
+		padding-left: image-width($activemenuli-bgimg);
+		background: image-url($activemenuli-bgimg) no-repeat 0% 0; 
+		margin: -3px 0 0 (- image-width($activemenuli-bgimg));  
+		  
+		
+		a {
+			background: image-url($activemenu-bgimg) no-repeat 100% 0; 
+			text-decoration: underline;
+			padding-left: 10px;
+			padding-top: 9px;  
+			color: ($themecolor);  
+			font-size: 12px;    
+		}   
 	}
 	.container {
-	  width: 1123px;
+	  width: 1125px;
 	  margin-left: auto;
 	  margin-right: auto; 
 	  background-color: #F5F3E6; 
 	  padding-left: 10px;
-	  height: 23px;
-	  border-bottom: 1px solid #BDBDBD;
-	  background: image-url($menu-bgimg) repeat-x; 
-	  border-left: 1px solid #fff;
-	  border-right: 1px solid #fff;
+    background: image-url($mainmenu-bgimg) no-repeat 0 0; 
+	  height:image-height($mainmenu-bgimg) ;
 	}
-
 }
 
 #sub-menu {
 	@include horizontal-list(0,left);
 	ul {
 		padding-top: 5px;
+		padding-left: 5px;
+		li
+		{
+			background:transparent image-url($sub-menu) right bottom no-repeat;
+			&.last, 
+			&:last-child
+			{
+				  background:transparent ;
+			}
+			
+		}
 	}
 	a {
 		height:18px; 
 		display:block;
-		padding-left: 5px; 
-		padding-right: 5px;
+		padding-left: 10px; 
+		padding-right: 10px;
 		padding-top: 4px;
 		@include hover-link;
 		color: ($menu-linkcolor);
 		font-family: ($subfont);
+		font-weight: bold;
 	}
 	.active {
-		color: ($default_linkcolor);
+		color: ($themecolor);
 	}
 	.container {
 	  width: 1124px;
@@ -74,7 +85,7 @@
 	  margin-right: auto; 
 	  background-color: #ffffff; 
 	  padding-left: 10px;
-	  height: 30px;
+	  height: 26px;
 	}
 	.submenu-bottom{
 		background: url(../images/vertical_shaddow.jpg) no-repeat;

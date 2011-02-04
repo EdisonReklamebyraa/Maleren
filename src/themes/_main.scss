@@ -1,30 +1,47 @@
-$mainfont: georgia,"times New Roman" !default;
+$mainfont: arial,helvetica !default;
 $subfont: arial,helvetica !default;
 
-$purple: #252f47 !default; 
+$purple: #495fbf !default; 
 $darkblue: #1b1c20 !default;
 $lightblue: #2f7aaf !default;
 $black: #0a0a0a !default;
-$darkgray: #353535 !default;
+$darkgray: #1b1c20 !default;
 $white: #fff !default;
 $article-color-1: #141414 !default;
 $article-color-2: #353535 !default;
-$menu-linkcolor: #0a0a0a !default;
+$menu-linkcolor: #666565 !default;
 $light-gray: #dfdede !default;
 $medium-gray: #818084 !default;
-$border-gray: #acb2b6 !default;
-$menu-bgimg: "themes/menu_background.jpg" !default; 
+$border-gray: #acb2b6 !default; 
+$c1: #c04f1d !default;      
+$c2: #e3bb22 !default;   
+$c3: #c95320 !default; 
+    
+$topcontainer-bgimg: $image-root+"header_bg.png";    
+$activemenu-bgimg: "themes/menu_active_bgimg.png" !default;  
+$activemenuli-bgimg: "themes/menu_activeli_bgimg.png" !default;   
+$logo: "themes/logo.png";
+$menu-bgimg: "themes/menu_background.jpg" !default;         
+$menuli-bgimg:  $image-root+"menu_li_bgimg.png" !default;   
+$search-button: $image-root+"search-btn-top.png";    
+$sub-menu:  $image-root+"sub-menu.png" !default;     
+$search-searchfield: "searchfield.png";    
 $col4-header: "themes/col4_annonse_header_bg.png" !default; 
 $col4-bg: "themes/col4_bg.png" !default;
 $box-shadow: "themes/box_h2_shadow.png" !default;
 $box-h2-bg: "themes/box_h2_bg.png" !default;
-$icon-raquo: "themes/icon-raquo.gif" !default;
+$icon-raquo: $image-root+"/icon-raquo.gif" !default;
+$icon-raquo-c2: "themes/icon-raquo-c2.png" !default; 
+$icon-raquo-c1: "themes/icon-raquo-c1.png" !default; 
+$mainmenu-bgimg: $image-root+"menu_bgimg.png";  
+$top-right-menuseparator: "themes/toprightmenu_separator.png"; 
+$icon-raquo: $image-root+"icon-raquo.png";
 
 
 /* LINKS */
 $normal: $black !default;
-$hover: #2f7aaf !default;
+$hover: $themecolor !default;
 $active: #2f7aaf !default;
 $visited: #0a0a0a !default;
-$focus: #0a0a0a !default;
-$default_linkcolor: #ff0000 !default;
+$focus: #d63f3a !default;
+$default_linkcolor: #547a8c !default;

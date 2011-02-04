@@ -9,12 +9,39 @@
     font-size: 17px;
     color: $black;
     text-transform: none;
-    font-weight: normal;
+    font-weight: bold;
     padding: 4px 7px 4px 7px;
     background: image-url($box-h2-bg) repeat-x top;
     display: block;
     margin: 3px;
-  	 }
+  	 } 
+	&.c1 
+	{
+ 
+		a.arrow
+		{
+			background-image: image-url($icon-raquo-c1) ;   
+			color: $c1;
+		}
+		h2
+		{
+			background: $c1 repeat-x top; 
+		 	color: $white; 
+		}    
+	}
+	&.c2
+	{	                 
+		a.arrow
+		{
+			background-image: image-url($icon-raquo-c2) ;   
+			color: $c2;
+		}
+		h2
+		{
+			background: $c2 repeat-x top; 
+		 	color: $white; 
+		}  
+	}
   .shaddow
   {
     background: image-url($box-shadow) no-repeat bottom;
@@ -26,16 +53,19 @@
       font-size: 16px;
       font-weight: normal;
       margin-bottom: 5px;
-      text-decoration: none; }
-    h3 a {
-      color: ($black);
-      font-size: 16px; 
-      font-weight: normal;
-      margin-bottom: 5px;
-      text-decoration: none;
-      @include hover-link; 
-      @include link-colors($normal, $hover, $active, $visited, $focus); 
-       }
+      text-decoration: none; 
+		   a {
+		     font-size: 16px; 
+		     font-weight: normal;
+		     margin-bottom: 5px;
+		     text-decoration: none;
+		     @include hover-link;   
+				color: $hover;
+		     
+			      }
+		 }
+		
+		 
 	.box-content {
 	  	overflow: hidden;
       p {
@@ -50,7 +80,8 @@
 		    font-size: 12px;
 		    line-height: 13px;
 		    line-height: 15px;
-		    margin-bottom: 10px;
+		    margin-bottom: 10px;  
+				overflow: hidden;
 		 } 
      .links ul {
         list-style-position: inside;

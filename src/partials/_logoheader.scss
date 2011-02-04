@@ -4,16 +4,17 @@
     text-decoration: none;
     &:hover {
       text-decoration: underline; } }
-  background: #346f96;
-  background: image-url($topcontainer-bgimg) center top repeat-x;
+  border: solid $border-gray;
+	border-width: 1px 0;
+  background: #FFF image-url($topcontainer-bgimg) center top repeat-x;
   .grid-padder {
     padding: 0 180px 0 13px; }
   .container {
-    /*	background:url(../images/top-bg.jpg) repeat-x; */
-    background: image-url($topcontainer-bgimg) center top repeat-x; } }
+    /*	background:url(../images/top-bg.jpg) repeat-x; 
+    background: image-url($topcontainer-bgimg) right top repeat-x; */ } }
  
 #top-wrapper {
-  height: 91px; }
+  height: image-height($topcontainer-bgimg) - 1px; }
 
 
 
@@ -23,7 +24,7 @@
   float: left;
   left: 19px; 
   position: relative;
-  top: 15px;  
+  top: 8px;  
   @include replace-text($logo, 50%, 50%);
   display: block;
   width: image-width($logo);
@@ -48,19 +49,22 @@
 
   .top-search-box {
     .padder {
-      padding: 17px 0; 
+      padding: 8px 0; 
       float: right;}
     input.searchfield {
-      width: 169px;
-      position: relative;
-      border: 1px solid $border-gray;
-      padding: 4px;
+      background: image-url($search-searchfield) no-repeat 0 50%;
+      height: image-height($search-searchfield) - 16px;
+      width: image-width($search-searchfield) ; 
+			padding: 8px 5px 8px;         
+      border: 0;
+			margin: 0;
       font-size: 11px; }
     .searchbutton {
-      margin-left: 10px;
+      margin-left: -35px;     
       background: image-url($search-button) no-repeat;
-      height: 24px;
-      width: 50px;
+      height: image-height($search-button) ;
+      width: image-width($search-button);      
+
       } 
     }
 
@@ -75,4 +79,19 @@
 
 #right-side {
   float: right;
-  padding-right: 177px; }
+  padding-right: 177px;
+ 	ul 
+ {   
+		background: image-url($menuli-bgimg) no-repeat 0 0;  
+		overflow: hidden;
+	  a
+		{  
+		   color: ($themecolor);
+		}
+	
+	}
+
+}
+	
+	
+	
