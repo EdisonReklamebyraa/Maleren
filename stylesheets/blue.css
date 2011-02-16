@@ -2487,7 +2487,7 @@ a.pdf {
 }
 
 /* line 48, ../src/elements/_articlelists.scss */
-.listrows .article-intro h2 a {
+.article-intro.listrows h2 a {
   color: #495fbf;
 }
 
