@@ -2237,8 +2237,9 @@ a.pdf {
   font-weight: normal;
   margin-bottom: 5px;
   text-decoration: none;
+  overflow: hidden;
 }
-/* line 57, ../src/elements/_box.scss */
+/* line 58, ../src/elements/_box.scss */
 .box h3 a {
   font-size: 16px;
   font-weight: normal;
@@ -2251,22 +2252,22 @@ a.pdf {
 .box h3 a:hover {
   text-decoration: underline;
 }
-/* line 69, ../src/elements/_box.scss */
+/* line 70, ../src/elements/_box.scss */
 .box .box-content {
   overflow: hidden;
 }
-/* line 71, ../src/elements/_box.scss */
+/* line 72, ../src/elements/_box.scss */
 .box .box-content p {
   margin-bottom: 10px;
   line-height: 14px;
 }
-/* line 75, ../src/elements/_box.scss */
+/* line 76, ../src/elements/_box.scss */
 .box .box-content .line {
   margin: 0;
   border-top: 1px solid #dfdede;
   padding-bottom: 4px;
 }
-/* line 79, ../src/elements/_box.scss */
+/* line 80, ../src/elements/_box.scss */
 .box .box-content .article-intro p {
   font-size: 12px;
   line-height: 13px;
@@ -2274,16 +2275,16 @@ a.pdf {
   margin-bottom: 10px;
   overflow: hidden;
 }
-/* line 86, ../src/elements/_box.scss */
+/* line 87, ../src/elements/_box.scss */
 .box .box-content .links ul {
   list-style-position: inside;
   list-style-type: none;
 }
-/* line 89, ../src/elements/_box.scss */
+/* line 90, ../src/elements/_box.scss */
 .box .box-content .links ul li {
   margin-bottom: 10px;
 }
-/* line 91, ../src/elements/_box.scss */
+/* line 92, ../src/elements/_box.scss */
 .box .box-content .links ul li a {
   font-size: 11px;
 }
