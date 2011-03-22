@@ -32,7 +32,7 @@
 		{
 			color: $black;  
 			@include hover-link;  
-      &.arrow {color: $themecolor;}
+      &.arrow {color: $themecolor!important;}
 		}
 		}
   p {

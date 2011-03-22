@@ -2473,7 +2473,7 @@ a.pdf {
 }
 /* line 35, ../src/elements/_articlelists.scss */
 .article-intro h2 a.arrow {
-  color: #1f3f81;
+  color: #1f3f81 !important;
 }
 /* line 38, ../src/elements/_articlelists.scss */
 .article-intro p {
