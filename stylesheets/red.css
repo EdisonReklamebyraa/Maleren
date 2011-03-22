@@ -2471,26 +2471,30 @@ a.pdf {
 .article-intro h2 a:hover {
   text-decoration: underline;
 }
-/* line 37, ../src/elements/_articlelists.scss */
+/* line 35, ../src/elements/_articlelists.scss */
+.article-intro h2 a.arrow {
+  color: #c63b00;
+}
+/* line 38, ../src/elements/_articlelists.scss */
 .article-intro p {
   margin-bottom: 3px;
 }
-/* line 39, ../src/elements/_articlelists.scss */
+/* line 40, ../src/elements/_articlelists.scss */
 .article-intro p a {
-  color: #c63b00;
+  color: black;
   text-decoration: none;
 }
-/* line 42, ../src/elements/_articlelists.scss */
+/* line 43, ../src/elements/_articlelists.scss */
 .article-intro p a:hover {
   text-decoration: underline;
 }
-/* line 44, ../src/elements/_articlelists.scss */
+/* line 45, ../src/elements/_articlelists.scss */
 .article-intro .intro-image {
   margin-bottom: 6px;
   display: block;
 }
 
-/* line 49, ../src/elements/_articlelists.scss */
+/* line 50, ../src/elements/_articlelists.scss */
 .article-intro.listrows h2 a {
   color: #c63b00;
 }
