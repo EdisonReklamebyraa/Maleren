@@ -355,7 +355,7 @@ a.arrow {
   background: url('../images/themes/blue/icon-raquo.png?1297429913') no-repeat left 50%;
   padding-left: 11px;
   font-size: 14px;
-  color: #1f3f81;
+  color: #1f3f81 !important;
 }
 /* line 216, ../src/partials/_main.scss */
 a.big-arrow {
@@ -2471,30 +2471,26 @@ a.pdf {
 .article-intro h2 a:hover {
   text-decoration: underline;
 }
-/* line 35, ../src/elements/_articlelists.scss */
-.article-intro h2 a.arrow {
-  color: #1f3f81 !important;
-}
-/* line 38, ../src/elements/_articlelists.scss */
+/* line 37, ../src/elements/_articlelists.scss */
 .article-intro p {
   margin-bottom: 3px;
 }
-/* line 40, ../src/elements/_articlelists.scss */
+/* line 39, ../src/elements/_articlelists.scss */
 .article-intro p a {
   color: black;
   text-decoration: none;
 }
-/* line 43, ../src/elements/_articlelists.scss */
+/* line 42, ../src/elements/_articlelists.scss */
 .article-intro p a:hover {
   text-decoration: underline;
 }
-/* line 45, ../src/elements/_articlelists.scss */
+/* line 44, ../src/elements/_articlelists.scss */
 .article-intro .intro-image {
   margin-bottom: 6px;
   display: block;
 }
 
-/* line 50, ../src/elements/_articlelists.scss */
+/* line 49, ../src/elements/_articlelists.scss */
 .article-intro.listrows h2 a {
   color: #1f3f81;
 }

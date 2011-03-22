@@ -212,7 +212,7 @@ a {
     background: image-url($icon-raquo) no-repeat left 50%;
     padding-left: 11px;
     font-size: 14px;
- 		color: $hover;}
+ 		color: $hover !important;}
   &.big-arrow {
     background: url(../images/temalink-arrow.jpg) no-repeat 4px center;
     padding-left: 27px;
