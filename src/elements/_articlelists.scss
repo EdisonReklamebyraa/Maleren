@@ -37,7 +37,7 @@
   p {
     margin-bottom: 3px;
     a {
-      color: black;
+      color: $themecolor;
       text-decoration: none;
       &:hover {
         text-decoration: underline; } } }
@@ -47,7 +47,7 @@
 
 .article-intro.listrows h2 a
 {
-	color: $purple;
+	color: $themecolor;
 }
 
 

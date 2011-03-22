@@ -2477,7 +2477,7 @@ a.pdf {
 }
 /* line 39, ../src/elements/_articlelists.scss */
 .article-intro p a {
-  color: black;
+  color: #c63b00;
   text-decoration: none;
 }
 /* line 42, ../src/elements/_articlelists.scss */
@@ -2492,7 +2492,7 @@ a.pdf {
 
 /* line 49, ../src/elements/_articlelists.scss */
 .article-intro.listrows h2 a {
-  color: #495fbf;
+  color: #c63b00;
 }
 
 /* line 1, ../src/elements/_article.scss */
