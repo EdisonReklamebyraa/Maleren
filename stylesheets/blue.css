@@ -1915,8 +1915,7 @@ a.pdf {
   display: block;
   padding-left: 15px;
   padding-right: 15px;
-  padding-top: 6px;
-  padding-bottom: 11px;
+  line-height: 25px;
   text-decoration: none;
   color: #666565;
   text-transform: uppercase;
@@ -1928,28 +1927,43 @@ a.pdf {
 #main-menu a:hover {
   text-decoration: underline;
 }
-/* line 20, ../src/partials/_menu.scss */
+/* line 19, ../src/partials/_menu.scss */
 #main-menu li {
   padding-left: 1px;
   padding-right: 1px;
   background: url('../images/themes/blue/menu_li_bgimg.png?1297429913') no-repeat 100% 0;
 }
-/* line 26, ../src/partials/_menu.scss */
+/* line 25, ../src/partials/_menu.scss */
+#main-menu li div {
+  float: left;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+/* line 29, ../src/partials/_menu.scss */
+#main-menu li div img {
+  height: 16px;
+  position: relative;
+  top: 4px;
+  padding-right: 8px;
+  float: left;
+}
+/* line 39, ../src/partials/_menu.scss */
 #main-menu li.active {
   padding-left: 5px;
   background: url('../images/themes/menu_activeli_bgimg.png?1297429913') no-repeat 0% 0;
   margin: -3px 0 0 -5px;
 }
-/* line 32, ../src/partials/_menu.scss */
+/* line 45, ../src/partials/_menu.scss */
 #main-menu li.active a {
   background: url('../images/themes/menu_active_bgimg.png?1297429913') no-repeat 100% 0;
   text-decoration: underline;
   padding-left: 10px;
-  padding-top: 9px;
+  padding-top: 5px;
+  padding-bottom: 2px;
   color: #1f3f81;
   font-size: 12px;
 }
-/* line 41, ../src/partials/_menu.scss */
+/* line 55, ../src/partials/_menu.scss */
 #main-menu .container {
   width: 1125px;
   margin-left: auto;
@@ -1960,7 +1974,7 @@ a.pdf {
   height: 29px;
 }
 
-/* line 52, ../src/partials/_menu.scss */
+/* line 66, ../src/partials/_menu.scss */
 #sub-menu {
   margin: 0;
   padding: 0;
@@ -1988,20 +2002,20 @@ a.pdf {
 #sub-menu li:last-child, #sub-menu li.last {
   padding-right: 0;
 }
-/* line 54, ../src/partials/_menu.scss */
+/* line 68, ../src/partials/_menu.scss */
 #sub-menu ul {
   padding-top: 5px;
   padding-left: 5px;
 }
-/* line 58, ../src/partials/_menu.scss */
+/* line 72, ../src/partials/_menu.scss */
 #sub-menu ul li {
   background: transparent url('../images/themes/blue/sub-menu.png?1297429913') right bottom no-repeat;
 }
-/* line 62, ../src/partials/_menu.scss */
+/* line 76, ../src/partials/_menu.scss */
 #sub-menu ul li.last, #sub-menu ul li:last-child {
   background: transparent;
 }
-/* line 68, ../src/partials/_menu.scss */
+/* line 82, ../src/partials/_menu.scss */
 #sub-menu a {
   height: 18px;
   display: block;
@@ -2017,11 +2031,11 @@ a.pdf {
 #sub-menu a:hover {
   text-decoration: underline;
 }
-/* line 79, ../src/partials/_menu.scss */
+/* line 93, ../src/partials/_menu.scss */
 #sub-menu .active {
   color: #1f3f81;
 }
-/* line 82, ../src/partials/_menu.scss */
+/* line 96, ../src/partials/_menu.scss */
 #sub-menu .container {
   width: 1124px;
   margin-left: auto;
@@ -2030,7 +2044,7 @@ a.pdf {
   padding-left: 10px;
   height: 26px;
 }
-/* line 90, ../src/partials/_menu.scss */
+/* line 104, ../src/partials/_menu.scss */
 #sub-menu .submenu-bottom {
   height: 23px;
   margin-left: auto;
