@@ -150,7 +150,11 @@ a.hoverlink {
 .col-1-2-3 {
   width: 781px;
   float: left;
-  overflow: hidden; }
+  overflow: hidden; 
+  	&.no-sidecolumn {
+  		width: 768px;
+  	}
+  }
 
 .col-1, .col-2 {
   float: left;
