@@ -2,12 +2,12 @@ h1.article-header {
   font-size: 45px;
   line-height: 55px;
   margin-top: 0;
-  margin-bottom: 12px; 
+  margin-bottom: 12px;
 }
 
 .article {
   line-height: 20px;
-  font-size: 14px; 
+  font-size: 14px;
   font-family: $mainfont;
   color: $article-color-1;
 }
@@ -15,13 +15,13 @@ h1.article-header {
 .article-mainpicture {
   line-height: 12px;
   background: $white;
-  border: 1px solid $border-gray; 
-  width: 466px; 
+  border: 1px solid $border-gray;
+  width: 466px;
   img {
     border: 5px solid $white;
 
   }
-} 
+}
 .picture-caption {
   border-bottom: 1px solid $border-gray;
   font-size: 12px;
@@ -72,6 +72,14 @@ h1.article-header {
     float: left;
   }
 }
+.article  .addthis_toolbox {
+  overflow: hidden;
+  clear: both;
+  float: right;
+  width: 110px;
+}
+
+
 .banner {
   margin-top: 20px;
 }
@@ -79,7 +87,7 @@ h1.article-header {
   margin-top: 20px;
   h2 {
     font-weight: bold;
-  } 
+  }
   p {
     margin-bottom: 12px;
   }
@@ -94,13 +102,13 @@ h1.article-header {
       float: right;
       overflow: hidden;
       font-size: 12px;
-      line-height: 12px;   
+      line-height: 12px;
     }
     img {
       border: 5px solid $white;
       padding: 5px;
-      border: 1px solid $border-gray; 
-      background-color: $white; 
+      border: 1px solid $border-gray;
+      background-color: $white;
     }
     .caption {
       display: block;
@@ -112,7 +120,7 @@ h1.article-header {
       border-bottom: 1px solid $border-gray;
     }
 
-  }   
+  }
 }
 .linklist {
   width:50%;
