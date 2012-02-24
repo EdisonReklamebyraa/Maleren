@@ -2608,27 +2608,31 @@ h1.article-header {
   color: #2f7aaf;
 }
 /* line 52, ../src/elements/_article.scss */
+.byline p {
+  float: right;
+}
+/* line 55, ../src/elements/_article.scss */
 .byline img {
   float: left;
   margin-right: 10px;
 }
 
-/* line 57, ../src/elements/_article.scss */
+/* line 60, ../src/elements/_article.scss */
 .tools {
   margin-top: 5px;
   clear: both;
   height: 23px;
 }
-/* line 61, ../src/elements/_article.scss */
+/* line 64, ../src/elements/_article.scss */
 .tools img {
   float: right;
   margin-right: 10px;
 }
-/* line 64, ../src/elements/_article.scss */
+/* line 67, ../src/elements/_article.scss */
 .tools img.last {
   margin-right: 0px;
 }
-/* line 68, ../src/elements/_article.scss */
+/* line 71, ../src/elements/_article.scss */
 .tools p {
   display: inline;
   font-size: 12px;
@@ -2636,55 +2640,55 @@ h1.article-header {
   float: left;
 }
 
-/* line 75, ../src/elements/_article.scss */
+/* line 78, ../src/elements/_article.scss */
 .article .addthis_toolbox {
   clear: both;
 }
 
-/* line 80, ../src/elements/_article.scss */
+/* line 83, ../src/elements/_article.scss */
 .banner {
   margin-top: 20px;
 }
 
-/* line 83, ../src/elements/_article.scss */
+/* line 86, ../src/elements/_article.scss */
 .paragraph {
   margin-top: 20px;
 }
-/* line 85, ../src/elements/_article.scss */
+/* line 88, ../src/elements/_article.scss */
 .paragraph h2 {
   font-weight: bold;
 }
-/* line 88, ../src/elements/_article.scss */
+/* line 91, ../src/elements/_article.scss */
 .paragraph p {
   margin-bottom: 12px;
 }
-/* line 91, ../src/elements/_article.scss */
+/* line 94, ../src/elements/_article.scss */
 .paragraph .picture {
   width: 259px;
 }
-/* line 93, ../src/elements/_article.scss */
+/* line 96, ../src/elements/_article.scss */
 .paragraph .picture.fr {
   margin-left: 10px;
 }
-/* line 96, ../src/elements/_article.scss */
+/* line 99, ../src/elements/_article.scss */
 .paragraph .picture.fl {
   margin-right: 10px;
 }
-/* line 98, ../src/elements/_article.scss */
+/* line 101, ../src/elements/_article.scss */
 .paragraph .picture caption {
   float: right;
   overflow: hidden;
   font-size: 12px;
   line-height: 12px;
 }
-/* line 104, ../src/elements/_article.scss */
+/* line 107, ../src/elements/_article.scss */
 .paragraph .picture img {
   border: 5px solid white;
   padding: 5px;
   border: 1px solid #acb2b6;
   background-color: white;
 }
-/* line 110, ../src/elements/_article.scss */
+/* line 113, ../src/elements/_article.scss */
 .paragraph .picture .caption {
   display: block;
   clear: both;
@@ -2695,7 +2699,7 @@ h1.article-header {
   border-bottom: 1px solid #acb2b6;
 }
 
-/* line 122, ../src/elements/_article.scss */
+/* line 125, ../src/elements/_article.scss */
 .linklist {
   width: 50%;
   float: left;
@@ -2703,11 +2707,11 @@ h1.article-header {
   width: 224px;
   margin-bottom: 12px;
 }
-/* line 128, ../src/elements/_article.scss */
+/* line 131, ../src/elements/_article.scss */
 .linklist h3 {
   margin-bottom: 7px;
 }
-/* line 131, ../src/elements/_article.scss */
+/* line 134, ../src/elements/_article.scss */
 .linklist a {
   font-size: 12px;
   padding-bottom: 7px;
@@ -2719,44 +2723,44 @@ h1.article-header {
 .linklist a:hover {
   text-decoration: underline;
 }
-/* line 138, ../src/elements/_article.scss */
+/* line 141, ../src/elements/_article.scss */
 .linklist.last {
   padding-right: 0px;
   width: 234px;
 }
 
-/* line 143, ../src/elements/_article.scss */
+/* line 146, ../src/elements/_article.scss */
 .facts {
   width: 170px;
   font-size: 11px;
 }
-/* line 146, ../src/elements/_article.scss */
+/* line 149, ../src/elements/_article.scss */
 .facts.fr {
   margin-left: 10px;
   padding-left: 10px;
   border-left: 1px solid #acb2b6;
 }
-/* line 151, ../src/elements/_article.scss */
+/* line 154, ../src/elements/_article.scss */
 .facts.fl {
   margin-right: 10px;
   padding-right: 10px;
   border-right: 1px solid #acb2b6;
 }
-/* line 156, ../src/elements/_article.scss */
+/* line 159, ../src/elements/_article.scss */
 .facts h3 {
   color: #353535;
   font-weight: bold;
 }
-/* line 160, ../src/elements/_article.scss */
+/* line 163, ../src/elements/_article.scss */
 .facts .content {
   color: #353535;
   line-height: 16px;
 }
-/* line 163, ../src/elements/_article.scss */
+/* line 166, ../src/elements/_article.scss */
 .facts .content li {
   padding-left: 5px;
 }
-/* line 167, ../src/elements/_article.scss */
+/* line 170, ../src/elements/_article.scss */
 .facts .caption {
   display: block;
   clear: both;

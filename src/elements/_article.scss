@@ -49,6 +49,9 @@ h1.article-header {
       @include link-colors($normal, $hover, $active, $visited, $focus);
     }
   }
+  p {
+  	float: right;
+  }
   img {
     float: left;
     margin-right: 10px;
