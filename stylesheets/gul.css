@@ -78,12 +78,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   height: 20px;
 }
 
-/* line 13, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 12, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .clearfix {
   display: inline-block;
   display: block;
 }
-/* line 14, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 13, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .clearfix:after {
   content: ".";
   display: block;
@@ -94,7 +94,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 /* Hide from IE Mac \ */
 /* End hide from IE Mac */
-/* line 27, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 26, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 html body {
   /*	background-image:url(../images/bg-gradient.jpg); */
   margin: 0;
@@ -106,17 +106,17 @@ html body {
   /*background:transparent url(../RF_forside_996.jpg) no-repeat scroll 334px 0 */
 }
 
-/* line 38, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 37, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 strong {
   font-weight: bold;
 }
 
-/* line 41, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 40, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 a {
   color: #cb9500;
 }
 
-/* line 44, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 43, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 h1, h2, h3, h4, h5 {
   font-family: arial, helvetica;
   font-weight: normal;
@@ -124,18 +124,18 @@ h1, h2, h3, h4, h5 {
   text-decoration: none;
 }
 
-/* line 50, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 49, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 ul {
   list-style-position: inside;
   list-style-type: square;
 }
 
-/* line 54, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 53, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
   text-decoration: underline;
 }
 
-/* line 57, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 56, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 h1.category {
   font-size: 23px;
   font-family: arial, helvetica;
@@ -147,7 +147,7 @@ h1.category {
   border-bottom: 1px solid #dfdede;
   text-transform: uppercase;
 }
-/* line 65, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 64, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 h1.category a {
   font-size: 23px;
   font-family: arial, helvetica;
@@ -158,76 +158,76 @@ h1.category a {
   margin-bottom: 9px;
 }
 
-/* line 76, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 75, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .grey {
   color: #818084;
 }
 
-/* line 79, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 78, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .italic {
   font-style: italic;
 }
 
-/* line 82, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 81, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .fr {
   float: right;
 }
 
-/* line 85, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 84, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .fl {
   float: left;
 }
 
-/* line 88, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 87, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .fs11 {
   font-size: 11px;
 }
 
-/* line 91, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 90, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .ptb5 {
   padding: 5px 0;
 }
 
-/* line 94, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 93, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 a.hoverlink {
   text-decoration: none;
 }
-/* line 96, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 95, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 a.hoverlink:hover {
   text-decoration: underline;
 }
 
-/* line 99, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 98, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .ttu {
   text-transform: uppercase;
 }
 
-/* line 102, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 101, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .arial {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* line 105, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 104, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .tar {
   text-align: right;
 }
 
-/* line 108, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 107, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .hidden {
   display: none;
 }
 
-/* line 111, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 110, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .padder {
   padding: 9px;
 }
 
-/* line 114, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 113, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .grid-padder {
   padding: 9px 10px;
 }
 
-/* line 117, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 116, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .container {
   width: 1134px;
   margin-left: auto;
@@ -238,55 +238,55 @@ a.hoverlink:hover {
 .all-cols .container {
   background: url(../images/main_background_2.png) repeat-y; }
 */
-/* line 135, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 134, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 #content .grid-padder {
   padding-top: 0;
   padding-right: 0;
   background: url(../images/themes/content_background.png) repeat-y;
 }
 
-/* line 141, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 140, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .mr {
   margin: 0px 13px 0px 0px;
 }
 
-/* line 144, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 143, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2 {
   width: 468px;
   float: left;
   overflow: hidden;
 }
-/* line 148, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 147, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2 .mr {
   margin: 0px 16px 0px 0px;
 }
 
-/* line 151, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 150, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2-3 {
   width: 781px;
   float: left;
   overflow: hidden;
 }
-/* line 155, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 154, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2-3.no-sidecolumn {
   width: 768px;
 }
 
-/* line 160, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 159, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1, .col-2 {
   float: left;
   width: 226px;
   overflow: hidden;
 }
 
-/* line 165, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 164, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-3 {
   width: 287px;
   float: left;
   overflow: hidden;
 }
 
-/* line 170, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 169, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-4 {
   width: 343px;
   float: left;
@@ -295,85 +295,85 @@ a.hoverlink:hover {
   /*	background:url(../images/col4-end.jpg) no-repeat bottom; */
 }
 
-/* line 177, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 176, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .article-intro {
   font-size: 14px;
   line-height: 17px;
   margin-bottom: 11px;
 }
 
-/* line 182, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 181, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .search .article-intro {
   padding: 0 10px;
 }
 
-/* line 185, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 184, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .article-intro img.fl {
   margin-right: 12px;
 }
 
-/* line 188, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 187, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .has-image .float-wrapper {
   width: 230px;
   float: left;
 }
 
-/* line 192, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 191, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-3 .box .has-image .float-wrapper {
   width: 158px;
 }
 
-/* line 195, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 194, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .category .main-article h1 {
   font-size: 33px;
   line-height: 33px;
 }
 
-/* line 199, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 198, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .faded, a .faded {
   color: #818084;
 }
 
-/* line 202, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 201, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .article-intro .faded {
   text-transform: uppercase;
 }
 
-/* line 205, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 204, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 a.iconed {
   padding-left: 18px;
 }
 
-/* line 208, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 207, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .facebook {
   background: url(../images/icon-facebook.gif) no-repeat;
 }
 
-/* line 211, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 210, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .print {
   background: url(../images/icon-print.gif) no-repeat;
 }
 
-/* line 214, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 213, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .mail {
   background: url(../images/icon-mail.gif) no-repeat;
 }
 
-/* line 218, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 217, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 a.arrow {
   background: url('../images/themes/gul/icon-raquo.png?1303134074') no-repeat left 50%;
   padding-left: 11px;
   font-size: 14px;
   color: #cb9500 !important;
 }
-/* line 223, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 222, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 a.big-arrow {
   background: url(../images/temalink-arrow.jpg) no-repeat 4px center;
   padding-left: 27px;
   font-size: 13px;
 }
 
-/* line 228, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 227, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .dotted-line {
   background: url(../images/dotted-line-bg.gif) repeat-x;
   height: 1px;
@@ -382,7 +382,7 @@ a.big-arrow {
   margin-bottom: 12px;
 }
 
-/* line 235, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 234, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .line {
   border-top: 1px solid #dfdede;
   height: 1px;
@@ -392,16 +392,16 @@ a.big-arrow {
   margin-bottom: 12px;
 }
 
-/* line 244, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 243, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .one-line .faded {
   margin-right: 6px;
 }
-/* line 246, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 245, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .one-line a {
   color: #547a8c;
 }
 
-/* line 249, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 248, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .splitter {
   height: 5px;
   background: #d6d6d8;
@@ -409,26 +409,26 @@ a.big-arrow {
   width: 794px;
 }
 
-/* line 257, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 256, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .mb, .mbannonse {
   margin-bottom: 12px;
 }
 
-/* line 260, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 259, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .mb3 {
   margin-bottom: 3px;
 }
 
-/* line 263, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 262, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .big-top-border {
   border-top: 7px solid #ced8dd;
 }
 
-/* line 266, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 265, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .news-list {
   padding-bottom: 7px;
 }
-/* line 268, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 267, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .news-list h1 {
   background: url(../images/front-box-header-bg.gif) repeat-x;
   height: 32px;
@@ -437,65 +437,65 @@ a.big-arrow {
   margin-bottom: 7px;
 }
 
-/* line 275, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 274, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .header-box-icon {
   position: relative;
   top: 10px;
 }
 
-/* line 280, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 279, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .news-list h1 .padder {
   padding: 0px 6px;
 }
-/* line 282, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 281, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .news-list p {
   font-size: 11px;
   line-height: 12px;
 }
-/* line 285, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 284, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .news-list .article-intro {
   margin-bottom: 11px;
 }
-/* line 287, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 286, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .news-list .dotted-line {
   margin-bottom: 6px;
 }
-/* line 289, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 288, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .news-list .padder {
   padding: 0px 4px;
 }
-/* line 291, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 290, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .news-list h3 {
   font-size: 15px;
   margin-bottom: 6px;
 }
-/* line 294, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 293, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .news-list h4 {
   font-size: 11px;
   margin-bottom: 4px;
   line-height: 12px;
 }
-/* line 299, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 298, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .news-list h3 a, .news-list h4 a {
   text-decoration: underline;
   font-weight: bold;
 }
 
-/* line 303, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 302, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-3 .shadow-wrapper {
   padding-bottom: 4px;
   background: url(../images/box-col3-bottom.gif) no-repeat bottom;
   margin-bottom: 9px;
 }
 
-/* line 308, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 307, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2-3 .shadow-wrapper {
   padding-bottom: 4px;
   background: url(../images/box-col123-bottom.gif) no-repeat bottom;
   margin-bottom: 9px;
 }
 
-/* line 315, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 314, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .shadow-wrapper .box {
   margin-bottom: 0;
 }
@@ -504,31 +504,31 @@ a.big-arrow {
 .col-1-2 .box h2 {
   background: url(../images/box-header-wide-bg.jpg) no-repeat; }
 */
-/* line 329, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 328, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .newpost {
   padding: 20px 10px;
 }
-/* line 331, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 330, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .newpost .textinput {
   border: 1px solid #909ca7;
   width: 358px;
 }
-/* line 334, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 333, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .newpost input.textinput {
   height: 20px;
   margin-bottom: 10px;
 }
-/* line 337, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 336, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .newpost textarea.textinput {
   height: 100px;
 }
 
-/* line 340, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 339, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .vat {
   vertical-align: top;
 }
 
-/* line 344, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 343, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .newpost label {
   width: 77px;
   position: relative;
@@ -537,18 +537,18 @@ a.big-arrow {
   float: left;
   font-size: 12px;
 }
-/* line 351, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 350, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .newpost .buttons {
   padding-top: 10px;
   position: relative;
 }
-/* line 354, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 353, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .newpost .buttons input.button {
   width: 100px;
   font-size: 10px;
 }
 
-/* line 358, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 357, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett h2 {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
@@ -561,122 +561,122 @@ a.big-arrow {
   line-height: 30px;
 }
 
-/* line 369, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 368, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table {
   border: 1px solid #dfdede;
   width: 100%;
 }
-/* line 372, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 371, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table th {
   padding: 4px;
 }
-/* line 375, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 374, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table td.description-cell {
   padding: 5px 0px 10px 14px;
 }
-/* line 377, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 376, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table td.event-data-cell {
   padding: 5px 10px 5px 10px;
 }
-/* line 379, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 378, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table td.event-data-cell img.logo {
   margin-bottom: 8px;
 }
-/* line 381, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 380, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table td.description-cell {
   width: 275px;
 }
-/* line 383, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 382, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table td.description-cell .description {
   border-right: 1px solid #dfdede;
   padding-bottom: 7px;
   padding-right: 10px;
 }
-/* line 387, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 386, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table p {
   margin-bottom: 10px;
 }
-/* line 389, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 388, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table td {
   line-height: 17px;
   vertical-align: top;
 }
-/* line 392, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 391, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table td.description-cell .description a {
   font-size: 11px;
 }
-/* line 394, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 393, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table .header {
   background: #f6f5f5;
   padding: 9px;
 }
-/* line 397, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 396, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table .header .type {
   font-size: 11px;
   line-height: 14px;
 }
-/* line 400, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 399, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events-table .header h3 {
   font-size: 18px;
   color: #2b2b2b;
 }
 
-/* line 404, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 403, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett h2 img {
   padding-top: 8px;
 }
 
-/* line 407, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 406, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .box-content {
   /*	background:url(../images/box-content-bg.jpg) repeat-x bottom; */
 }
 
-/* line 410, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 409, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett .box-content {
   color: #2a597a;
   background: url(../images/proffnett-content-bg.jpg) repeat-x bottom;
 }
-/* line 413, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 412, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett .box-content .pn-content {
   font-size: 11px;
 }
-/* line 415, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 414, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett .box-content .pn-content a {
   color: #2a597a;
 }
-/* line 416, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 415, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett .box-content .pn-content a.change-profile {
   position: relative;
   top: 3px;
 }
-/* line 420, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 419, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett .box-content .pn-content p {
   margin-bottom: 10px;
 }
-/* line 423, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 422, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett .box-content .pn-content .login input.ti {
   font-size: 11px;
   width: 110px;
 }
-/* line 426, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 425, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett .box-content .pn-content .login td {
   line-height: 20px;
   vertical-align: top;
   padding: 0 0 5px 3px;
 }
-/* line 430, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 429, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett .box-content .pn-content .login table {
   margin-bottom: 0;
 }
-/* line 433, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 432, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett .box-content .pn-content .login .loginbtn {
   margin-right: -3px;
 }
-/* line 435, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 434, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett .box-content .pn-content .login td.no-padding-right {
   padding-right: 0;
 }
-/* line 437, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 436, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .proffnett .box-content .pn-content .login #remember {
   margin: 0 3px 0 0;
   padding: 0;
@@ -684,17 +684,17 @@ a.big-arrow {
   top: 2px;
 }
 
-/* line 443, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 442, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box h2.icon-header {
   padding-left: 4px;
 }
 
-/* line 446, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 445, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2-3 .box h2.icon-header {
   padding-left: 9px;
 }
 
-/* line 449, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 448, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box h2 a.more-button {
   display: block;
   background: url(../images/more-btn-bg.gif) repeat-x center;
@@ -706,45 +706,45 @@ a.big-arrow {
   margin-right: 11px;
 }
 
-/* line 459, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 458, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2-3 .box h2 a.more-button {
   margin-right: 9px;
 }
 
-/* line 463, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 462, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .article-intro img.fl {
   margin-right: 6px;
   margin-bottom: 10px;
 }
-/* line 466, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 465, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box h2 a.more-button span {
   display: block;
 }
-/* line 468, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 467, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box h2 a.more-button span.leftside {
   background: url(../images/more-btn-left.gif) no-repeat left center;
   padding-left: 8px;
 }
-/* line 471, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 470, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box h2 a.more-button span.rightside {
   background: url(../images/more-btn-right.gif) no-repeat right center;
   padding-right: 18px;
 }
-/* line 474, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 473, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .search {
   padding: 10px 0;
   display: block;
 }
-/* line 477, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 476, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .search .searchfield {
   float: left;
   float: left;
 }
-/* line 480, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 479, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .search .searchbutton {
   float: left;
 }
-/* line 482, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 481, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .search .searchfield {
   font-size: 11px;
   position: relative;
@@ -752,110 +752,110 @@ a.big-arrow {
   margin-right: 10px;
   width: 188px;
 }
-/* line 489, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 488, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box h2.icon-header .icon-holder {
   padding-left: 30px;
   height: 27px;
 }
-/* line 492, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 491, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box h2.icon-header .video {
   background: url(../images/header-icon-video.gif) no-repeat 0px 5px;
 }
-/* line 494, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 493, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box h2.icon-header .bilder {
   background: url(../images/header-icon-galleri.gif) no-repeat 0px 3px;
 }
-/* line 496, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 495, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box h2.icon-header .forumpost {
   background: url(../images/forumpost-icon.gif) no-repeat 6px 10px;
 }
 
-/* line 502, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 501, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .breadcrumb {
   margin-bottom: 10px;
 }
-/* line 504, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 503, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .breadcrumb a {
   margin-right: 8px;
 }
 
-/* line 507, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 506, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 h3 a {
   text-decoration: underline;
 }
 
-/* line 512, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 511, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum table.topictable {
   width: 100%;
   line-height: 13px;
 }
-/* line 515, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 514, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum table.threadtable {
   width: 100%;
   line-height: 13px;
   margin-bottom: 10px;
 }
-/* line 519, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 518, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .buttons {
   float: right;
   margin-bottom: 8px;
 }
-/* line 522, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 521, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .nomargin {
   margin: 0;
 }
-/* line 524, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 523, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .buttons input {
   font-size: 11px;
 }
-/* line 527, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 526, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum th.theme-col, .forum th.answer-col, .forum th.by-col, .forum th.lastpost-col, .forum th.post-col {
   background: transparent url(../images/box-header-gradient.jpg) repeat-x scroll 0 0;
   height: 30px;
   vertical-align: middle;
   font-size: 12px;
 }
-/* line 532, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 531, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .theme-col {
   width: 169px;
   border-left: 1px solid #dcdbdb;
 }
-/* line 535, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 534, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .answer-col {
   width: 41px;
   border-left: 1px solid #dcdbdb;
 }
-/* line 538, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 537, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .by-col {
   width: 136px;
   border-left: 1px solid #dcdbdb;
   width: 136px;
   border-left: 1px solid #dcdbdb;
 }
-/* line 543, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 542, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .threadtable .by-col {
   width: 99px;
 }
-/* line 545, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 544, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .lastpost-col {
   width: 107px;
   border-left: 1px solid #dcdbdb;
   border-right: 1px solid #dcdbdb;
 }
-/* line 549, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 548, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .post-col {
   border-left: 1px solid #dcdbdb;
   border-right: 1px solid #dcdbdb;
 }
-/* line 552, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 551, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum td.bl {
   border-left: 1px solid #dcdbdb;
 }
-/* line 555, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 554, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .threadtable td {
   border-bottom: 1px solid #dcdbdb;
 }
-/* line 557, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 556, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .threadtable .post {
   border-left: 1px solid #dcdbdb;
   /*	border-right:1px solid #dcdbdb; */
@@ -863,11 +863,11 @@ h3 a {
   font-size: 12px;
   line-height: 13px;
 }
-/* line 563, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 562, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .threadtable .post p, .forum .threadtable .post h3 {
   margin-bottom: 10px;
 }
-/* line 565, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 564, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .threadtable .post .timestamp {
   background: #ebebeb;
   font-size: 11px;
@@ -875,126 +875,126 @@ h3 a {
   line-height: 39px;
   padding-left: 10px;
 }
-/* line 571, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 570, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .threadtable .post .timestamp input {
   font-size: 11px;
   position: relative;
   top: 9px;
   right: 10px;
 }
-/* line 576, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 575, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .threadtable .post .quote {
   background: url(../images/quote-marker.gif) no-repeat 10px 0px;
   padding-left: 44px;
   font-size: 11px;
 }
-/* line 580, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 579, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .threadtable .post .quote .content {
   background: #f3f3f3;
   padding: 0px 10px;
   margin-bottom: 10px;
   color: #1b1c20;
 }
-/* line 585, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 584, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .threadtable .post .quote .content h4 {
   padding: 10px 0 5px 0;
   font-size: 11px;
   color: #1b1c20;
 }
-/* line 590, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 589, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum table.topictable th, .forum table.threadtable th {
   padding: 0 10px;
 }
-/* line 592, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 591, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum table.topictable td, .forum table.threadtable td {
   padding: 10px;
 }
-/* line 595, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 594, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum table.topictable tr.dark {
   background: #f6f5f5;
 }
-/* line 597, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 596, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum table.topictable a {
   font-weight: bold;
 }
-/* line 599, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 598, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum table.topictable a.read {
   font-weight: normal;
 }
 
-/* line 605, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 604, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .box-content .article-intro p {
   margin-bottom: 10px;
   font-size: 12px;
   line-height: 16px;
 }
-/* line 609, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 608, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .forum .box-content .article-intro .forumcat-info {
   font-size: 11px;
 }
 
-/* line 613, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 612, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .black {
   background: black;
   color: white;
   font-size: 11px;
   text-decoration: none;
 }
-/* line 618, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 617, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .black a {
   background: black;
   color: white;
   font-size: 11px;
   text-decoration: none;
 }
-/* line 623, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 622, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .black a:hover {
   text-decoration: underline;
 }
-/* line 625, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 624, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .box-content .padder {
   padding: 4px 10px 10px;
 }
 
-/* line 628, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 627, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .image-box .box-content .padder {
   padding: 0 3px 3px;
 }
 
-/* line 632, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 631, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .box-content .pb {
   padding-bottom: 10px;
 }
-/* line 634, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 633, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .black .padder {
   padding: 10px;
   margin-top: 3px;
 }
-/* line 637, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 636, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .gallery .padder {
   padding: 0;
   padding-top: 3px;
 }
 
-/* line 641, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 640, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .gallery-table {
   width: 100%;
 }
 
-/* line 645, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 644, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2-3 .gallery .padder {
   padding: 9px;
 }
-/* line 647, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 646, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2-3 .gallery .gradient {
   /*	background:url(../images/gallery-row-bg.jpg) repeat-x; */
 }
-/* line 649, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 648, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2-3 .gallery .bt {
   border-top: 1px solid #dfdede;
 }
 
-/* line 652, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 651, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-3 .gallery-table td.imgcell {
   width: 50%;
   background: #373535;
@@ -1002,148 +1002,148 @@ h3 a {
   text-align: center;
 }
 
-/* line 659, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 658, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2-3 .gallery-table td.imgcell {
   width: 137px;
   background: #373535;
   vertical-align: middle;
   text-align: center;
 }
-/* line 664, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 663, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2-3 .gallery-table td.sepcell {
   width: 13px;
 }
 
-/* line 667, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 666, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .gallery-table td.img-desc-cell {
   line-height: 11px;
   font-size: 11px;
   padding: 5px;
 }
 
-/* line 672, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 671, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2-3 .gallery-table td.img-desc-cell {
   line-height: 13px;
   padding: 5px 0;
 }
 
-/* line 676, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 675, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .gallery-table td.img-desc-cell a {
   text-decoration: none;
 }
 
-/* line 679, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 678, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-1-2-3 .gallery-table td.img-desc-cell a {
   font-weight: bold;
 }
 
-/* line 683, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 682, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .gallery-table td.img-desc-cell a:hover {
   text-decoration: underline;
 }
-/* line 685, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 684, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .gallery-table td.leftside {
   border-right: 4px solid white;
 }
-/* line 687, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 686, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .gallery-table td.rightside {
   border-left: 4px solid white;
 }
 
-/* line 690, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 689, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events {
   font-size: 11px;
 }
-/* line 691, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 690, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .events h4 {
   margin-bottom: 4px;
   font-size: 11px;
   color: #1b1c20;
 }
 
-/* line 697, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 696, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .box-content .events .line {
   margin: 0;
   padding-bottom: 12px;
 }
 
-/* line 704, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 703, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .box-content .list {
   padding: 0;
 }
-/* line 705, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 704, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .box-content .list .article-intro {
   border-bottom: 1px solid #dfdede;
   padding: 10px;
 }
-/* line 708, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 707, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .box-content .list .dark {
   background: #f5f4f4;
 }
-/* line 711, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 710, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro {
   font-size: 11px;
   border-bottom: 1px solid #dfdede;
   padding: 8px 12px 10px 10px;
 }
-/* line 715, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 714, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .post-data {
   padding: 0 0 8px 0;
 }
-/* line 717, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 716, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .post-data .author {
   float: left;
   background: url(../images/forumpost-icon.gif) no-repeat left 2px;
   padding-left: 19px;
 }
-/* line 721, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 720, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .post-data .date {
   float: right;
   line-height: 14px;
 }
-/* line 724, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 723, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .post-data .datebtn-leftside, .box .forumpost-intro .post-data .datebtn-rightside, .box .forumpost-intro .post-data .datebtn {
   float: right;
   height: 14px;
 }
-/* line 727, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 726, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .post-data .datebtn-leftside {
   background: url(../images/datebtn-right.gif) no-repeat left center;
   width: 2px;
 }
-/* line 730, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 729, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .post-data .datebtn-rightside {
   background: url(../images/datebtn-left.gif) no-repeat left center;
   width: 2px;
 }
-/* line 733, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 732, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .post-data .datebtn {
   background: url(../images/datebtn-bg.gif) repeat-x;
 }
-/* line 735, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 734, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .post-data .datebtn a {
   color: white;
   text-decoration: none;
   padding: 0 4px;
 }
-/* line 739, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 738, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .topic {
   margin-bottom: 5px;
 }
-/* line 741, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 740, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .topic a {
   color: #3677a5;
 }
-/* line 743, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 742, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .line {
   margin: 0;
   padding-bottom: 5px;
 }
-/* line 746, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 745, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .post {
   /*padding: 0 0 8px 0; */
 }
-/* line 748, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 747, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .forumpost-intro .post .unread {
   float: right;
   background: url(../images/envelope-icon.gif) no-repeat right 2px;
@@ -1151,30 +1151,30 @@ h3 a {
   margin-right: 2px;
 }
 
-/* line 754, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 753, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box {
   margin-bottom: 7px;
 }
 
-/* line 757, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 756, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 #content .thick-bordered-box .padder {
   padding-top: 7px;
 }
 
-/* line 761, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 760, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box h3 {
   font-size: 11px;
   font-weight: bold;
   margin-bottom: 7px;
   color: #3f637b;
 }
-/* line 766, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 765, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .mid-border {
   border: 7px solid #ced8dd;
   border-bottom: none;
   border-top: none;
 }
-/* line 770, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 769, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .box-content {
   background: url(../images/bordered-box-bg.jpg) no-repeat;
   min-height: 97px;
@@ -1183,11 +1183,11 @@ h3 a {
   color: #3f637b;
   font-size: 11px;
 }
-/* line 777, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 776, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .box-content p {
   margin-bottom: 13px;
 }
-/* line 779, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 778, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .box-content label {
   width: 50px;
   display: block;
@@ -1195,101 +1195,101 @@ h3 a {
   line-height: 21px;
   overflow: hidden;
 }
-/* line 785, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 784, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .box-content .login-wrapper {
   line-height: 19px;
 }
-/* line 787, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 786, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .box-content .login-wrapper .login-btn {
   margin-left: 12px;
 }
-/* line 789, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 788, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .box-content .padder {
   padding: 8px 14px;
 }
-/* line 791, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 790, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .box-content a {
   color: #3f637b;
 }
-/* line 793, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 792, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .box-content .label {
   margin-bottom: 4px;
 }
-/* line 795, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 794, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .box-content select {
   width: 222px;
   border: 1px solid #7f9db9;
   padding: 1px;
   margin-bottom: 6px;
 }
-/* line 801, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 800, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .box-content input.search {
   width: 220px;
 }
-/* line 803, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 802, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .box-content input.searchbtn {
   position: relative;
   top: 1px;
 }
-/* line 806, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 805, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .top-border, .thick-bordered-box .bottom-border {
   line-height: 7px;
   font-size: 7px;
   height: 7px;
 }
-/* line 810, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 809, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .top-border {
   background: url(../images/thicklined-box-top.gif) no-repeat;
 }
-/* line 812, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 811, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .thick-bordered-box .bottom-border {
   background: url(../images/thicklined-box-bottom.gif) no-repeat;
 }
 
-/* line 817, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 816, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 #content .ad-container .job .padder {
   padding: 6px 6px;
 }
 
-/* line 821, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 820, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .ad-container .col {
   float: left;
   width: 150px;
   overflow: hidden;
 }
-/* line 825, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 824, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .ad-container .mr {
   margin-right: 13px;
 }
-/* line 827, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 826, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .ad-container .ad {
   margin-bottom: 9px;
 }
 
-/* line 830, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 829, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .ad-box {
   background: url(../images/annonser-indicator.gif) no-repeat center 5px;
   background-color: #ccd7dc;
   padding: 15px 7px 7px 7px;
   margin-bottom: 11px;
 }
-/* line 835, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 834, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .ad-box .ad {
   margin-bottom: 7px;
 }
 
-/* line 838, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 837, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .ad-left-indicator {
   background: url(../images/annonser-indicator-left.gif) center left no-repeat;
   padding-left: 9px;
   margin-left: -9px;
 }
 
-/* line 843, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 842, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list {
   padding-bottom: 7px;
 }
-/* line 845, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 844, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list h1 {
   background: url(../images/front-box-header-bg.gif) repeat-x;
   height: 32px;
@@ -1297,55 +1297,55 @@ h3 a {
   font-size: 22px;
   margin-bottom: 3px;
 }
-/* line 851, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 850, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list h1 .padder {
   padding: 0px 6px;
 }
-/* line 853, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 852, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list p {
   font-size: 11px;
   line-height: 12px;
 }
-/* line 856, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 855, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list .article-intro {
   margin-bottom: 11px;
 }
-/* line 858, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 857, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list .dotted-line {
   margin-bottom: 0px;
 }
 
-/* line 861, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 860, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 #content .job .padder {
   padding: 8px 6px;
 }
 
-/* line 865, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 864, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list h3 {
   font-size: 15px;
   margin-bottom: 6px;
 }
-/* line 868, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 867, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list h4 {
   font-size: 11px;
   margin-bottom: 4px;
   line-height: 12px;
 }
-/* line 873, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 872, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list h3 a, .jobs-list h4 a {
   text-decoration: underline;
   font-weight: bold;
 }
-/* line 876, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 875, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list a.icon {
   padding-left: 23px;
 }
-/* line 878, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 877, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list .job {
   font-size: 11px;
   color: #3f637b;
 }
-/* line 881, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 880, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list .job a {
   font-weight: bold;
   margin-right: 5px;
@@ -1353,35 +1353,35 @@ h3 a {
   line-height: 18px;
   float: left;
 }
-/* line 887, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 886, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list .job span {
   display: block;
   line-height: 18px;
   float: left;
 }
-/* line 891, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 890, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .jobs-list .dark {
   background: #f7f8f8;
 }
 
-/* line 894, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 893, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 a.pdf {
   background: url(../images/icon-pdf-small.jpg) no-repeat left center;
 }
 
-/* line 899, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 898, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .fl .article-image {
   margin-right: 12px;
   width: 187px;
 }
 
-/* line 903, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 902, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .fr .article-image {
   margin-left: 12px;
   width: 187px;
 }
 
-/* line 907, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 906, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .article-image .caption {
   color: #1b1c20;
   font-size: 12px;
@@ -1389,21 +1389,21 @@ a.pdf {
   padding: 7px;
 }
 
-/* line 913, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 912, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .leadin {
   margin-bottom: 19px;
   font-size: 16px;
   line-height: 20px;
 }
 
-/* line 920, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 919, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .assets {
   font-size: 12px;
   line-height: 17px;
   margin-bottom: 12px;
 }
 
-/* line 925, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 924, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .searchresult {
   padding: 10px 0px;
   margin-bottom: 10px;
@@ -1412,55 +1412,55 @@ a.pdf {
   line-height: 16px;
 }
 
-/* line 932, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 931, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .video-container {
   border: 1px solid #dfdede;
 }
 
-/* line 935, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 934, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .searchinfo {
   width: 50%;
   text-align: center;
   float: left;
 }
 
-/* line 941, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 940, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .searchresult a {
   text-decoration: none;
 }
-/* line 943, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 942, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .searchresult a:hover {
   text-decoration: underline;
 }
-/* line 945, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 944, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .searchresult a.next {
   margin-left: 10px;
   margin-right: 2px;
 }
-/* line 948, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 947, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .searchresult a.prev {
   margin-right: 10px;
   margin-left: 2px;
 }
-/* line 951, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 950, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .searchresult .next-wrapper {
   float: right;
   font-weight: bold;
   width: 25%;
 }
-/* line 955, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 954, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .searchresult .prev-wrapper {
   float: left;
   font-weight: bold;
   width: 25%;
 }
 
-/* line 960, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 959, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .nobg {
   background: none;
 }
 
-/* line 965, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 964, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .sdz {
   text-align: center;
   background: #373535;
@@ -1469,7 +1469,7 @@ a.pdf {
   display: table-cell;
 }
 
-/* line 972, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 971, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-2, .type-3 {
   border-bottom: 0;
   padding: 0 2px;
@@ -1479,12 +1479,12 @@ a.pdf {
    *	color:#2e5775; */
 }
 
-/* line 980, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 979, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-2 h2, .type-3 h2 {
   margin: 0 0 0 -2px;
 }
 
-/* line 984, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 983, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .col-3 .type-2 h2, .col-3 .type-3 h2 {
   border: none;
   /*	background:url(../images/box-type2-header-bg.jpg) no-repeat; */
@@ -1493,7 +1493,7 @@ a.pdf {
    *	font-family:"Times New Roman", Times, serif; */
 }
 
-/* line 991, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 990, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-2 .box-content h3, .type-3 .box-content h3 {
   font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
@@ -1501,52 +1501,52 @@ a.pdf {
   line-height: 22px;
 }
 
-/* line 997, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 996, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-2 .box-content h3.georgia, .type-3 .box-content h3.georgia {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-/* line 1000, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 999, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-2 .box-content p, .type-3 .box-content p {
   font-size: 12px;
   color: #1b1c20;
   margin-bottom: 12px;
 }
 
-/* line 1006, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 1005, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-2 .box-content .article-intro h3 a {
   /*	color:#131313; */
 }
-/* line 1008, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 1007, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-2 .box-content a.arrow {
   margin-bottom: 6px;
 }
 
-/* line 1011, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 1010, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-3 .box-content a.arrow {
   margin-bottom: 6px;
 }
 
-/* line 1014, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 1013, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-2 .has-image .image-wrapper, .type-3 .has-image .image-wrapper {
   float: left;
   width: 110px;
   padding-top: 3px;
 }
 
-/* line 1019, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 1018, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-2 .has-image .content-wrapper, .type-3 .has-image .content-wrapper {
   float: left;
   width: 160px;
 }
 
-/* line 1023, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 1022, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-2 .box-content {
   background: url(../images/type-2-bg.jpg) repeat-x bottom;
   padding-bottom: 13px;
 }
 
-/* line 1027, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 1026, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-3 .box-content {
   background: url(../images/type-3-bg.jpg) repeat-x bottom;
   border-left: 1px solid #e1e1e0;
@@ -1554,12 +1554,12 @@ a.pdf {
   padding-bottom: 6px;
 }
 
-/* line 1033, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 1032, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .type-2 .box-content .padder, .type-3 .box-content .padder {
   padding: 5px 5px 0 5px;
 }
 
-/* line 1036, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 1035, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box-type-2-footer {
   margin: 0;
   width: auto;
@@ -1568,17 +1568,17 @@ a.pdf {
   margin-bottom: 10px;
 }
 
-/* line 1045, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 1044, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .box .box-content .one-line {
   margin-bottom: 0.5em;
 }
 
-/* line 1049, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 1048, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .no-bg {
   background: none !important;
 }
 
-/* line 1052, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
+/* line 1051, /Users/thomas/Jobber/Skarland/Maleren/src/partials/_main.scss */
 .googlemap, .map-container {
   margin-bottom: 10px;
 }
