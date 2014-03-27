@@ -12,7 +12,6 @@
     background: url(../images/hvem-leverer-hva-box-bg.gif) no-repeat;
     width: 164px;
     height: 150px;
-    margin-right: 13px;
     line-height: 19px;
     font-family: $subfont;    
 		font-size: 11px;      
@@ -41,7 +40,8 @@
       padding-left: 17px; } }
   .ad-768, .ad-150 {
     float: left;
-    margin-right: 13px; }
+    margin-right: 13px;
+    margin-left: 13px; }
   .ad-768 {
     width: 768px; }
   .ad-150 {
